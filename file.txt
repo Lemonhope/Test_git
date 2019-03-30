@@ -1,2 +1,2 @@
 new change
-local change
+local + remote change
